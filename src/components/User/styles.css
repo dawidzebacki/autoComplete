@@ -1,0 +1,30 @@
+.user__wrapper {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    width: auto;
+    margin-top: 5em;
+    min-width: 640px;
+}
+
+.user__wrapper__info {
+    display: flex;
+    flex-direction: column;
+    padding: 1em;
+    flex: 1;
+}
+
+.user__wrapper__info--objects {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.user__wrapper__header {
+    font-size: 1.4em;
+    /* color: blue; */
+}
+
+.user__wrapper__paragraph {
+    font-size: 0.9em;
+}
