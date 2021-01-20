@@ -1,0 +1,6 @@
+html {
+    font-family: Helvetica, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+}
